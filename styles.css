@@ -1,0 +1,32 @@
+@import url('https://fonts.google.com/specimen/Poppins');
+
+body {
+    font-size: 15px;
+    font-family: 'Poppins';
+}
+
+p {
+    font-weight: 200;
+    padding: 5px;
+    color: #A3A5AE;
+}
+
+h1 {
+    font-weight: 600;
+    color: #4C4E61
+}
+
+h4 {
+    color: #4C4E61;
+}
+
+.card-mid {
+    position: absolute !important;
+    top: 420px !important;
+}
+
+.card-std {
+    padding: 15px !important;
+    border-top-width: 5px !important;
+    width: 355px !important;
+}
